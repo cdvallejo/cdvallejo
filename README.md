@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdvallejo
 - 👀 I’m interested in cinema, music, videogames, books and comicbooks.
-- 🌱 I’m currently learning in 42.
+- 🌱 I’m currently studying programming.
 - 💞️ I’m looking to collaborate on ... videogame music (I am also a composer).
 - 📫 How to reach me: carlosd.vallejo@gmail.com
 
